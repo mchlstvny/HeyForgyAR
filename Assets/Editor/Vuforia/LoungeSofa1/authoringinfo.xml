@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-13.7891 -2.1614 -7.8856 -1.1959 2.1909 0.9408" area="12" targetId="63ddb5fef7db40279f8646976b083833" name="LoungeSofa1" pathAuthoring="63ddb5fef7db40279f8646976b083833_authoring.glb" pathOcclusion="63ddb5fef7db40279f8646976b083833_occlusion.3dt" pathNavMesh="63ddb5fef7db40279f8646976b083833_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
