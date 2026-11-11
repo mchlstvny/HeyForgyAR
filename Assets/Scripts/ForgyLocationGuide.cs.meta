@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcf5a09cd1704483c9658af9733f13ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectFont: {fileID: 11400000, guid: 2b30a117a93fe4ece91e99170e43c66f, type: 2}
+  - informaticsTarget: {instanceID: 0}
+  - sofaTarget: {instanceID: 0}
+  - tableChairTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

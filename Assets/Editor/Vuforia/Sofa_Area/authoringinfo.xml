@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-10.1495 -4.3082 -8.0907 7.0018 2.5226 3.7068" area="12" targetId="30dfc8f0abc744138d166cc27a6cca5c" name="Sofa_Area" pathAuthoring="30dfc8f0abc744138d166cc27a6cca5c_authoring.glb" pathOcclusion="30dfc8f0abc744138d166cc27a6cca5c_occlusion.3dt" pathNavMesh="30dfc8f0abc744138d166cc27a6cca5c_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

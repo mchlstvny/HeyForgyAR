@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-5.6001 -5.1887 -7.6634 7.0093 1.9699 0.8716" area="19" targetId="4bb7ced504e24d18866216f27ba13926" name="Informatika_Writing_Area" pathAuthoring="4bb7ced504e24d18866216f27ba13926_authoring.glb" pathOcclusion="4bb7ced504e24d18866216f27ba13926_occlusion.3dt" pathNavMesh="4bb7ced504e24d18866216f27ba13926_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

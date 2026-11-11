@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-13.7343 -2.6704 -3.8348 -1.0791 2.1398 3.0232" area="7" targetId="093c40fbadf944eaa3566f53291853a6" name="Table_Chair_Lounge_Area_1" pathAuthoring="093c40fbadf944eaa3566f53291853a6_authoring.glb" pathOcclusion="093c40fbadf944eaa3566f53291853a6_occlusion.3dt" pathNavMesh="093c40fbadf944eaa3566f53291853a6_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
