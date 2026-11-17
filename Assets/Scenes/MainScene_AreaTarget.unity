@@ -2420,7 +2420,8 @@ MonoBehaviour:
   informaticsTarget: {fileID: 1721696000}
   sofaTarget: {fileID: 384184651}
   tableChairTarget: {fileID: 239087013}
-  reopenDelay: 4
+  showGuideOnStart: 1
+  foundMessageDuration: 2.8
 --- !u!1 &1200369211
 GameObject:
   m_ObjectHideFlags: 0

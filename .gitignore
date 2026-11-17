@@ -129,3 +129,52 @@ xcuserdata/
 /QCAR/
 /Assets/_Recovery/
 /Assets/_Recovery.meta
+
+# One-time SDK importer residue; the resolved SDK lives in Packages/.
+/Assets/Editor/Migration/
+/Assets/Editor/Migration.meta
+
+# Profiling, generated tooling data, and local editor caches.
+/[Pp]rofilerCaptures/
+/GeneratedAssets/
+.idea/
+.vscode/.browse.VC.db*
+.vscode/ipch/
+.vscode/.ropeproject/
+*.swp
+*.swo
+*~
+
+# Export iOS/Xcode projects into Build/iOS (see README).
+# Also cover common legacy export-directory names at the project root.
+/[Ii][Oo][Ss]/
+/[Ii][Oo][Ss][Bb]uild/
+/[Ii][Oo][Ss][Bb]uilds/
+/[Xx]code/
+/[Xx]code[Bb]uild/
+/[Xx]code[Bb]uilds/
+/ExportedXcodeProject/
+/XcodeProject/
+/Unity-iPhone.xcodeproj/
+/Unity-iPhone.xcworkspace/
+/Il2CppOutputProject/
+*.dSYM/
+*.xcresult/
+*.app.dSYM.zip
+*.apk.idsig
+
+# Local credentials and Apple/Android signing material.
+.env
+.env.*
+!.env.example
+!.env.template
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.p8
+*.pem
+*.key
+*.mobileprovision
+*.provisionprofile
+credentials.json

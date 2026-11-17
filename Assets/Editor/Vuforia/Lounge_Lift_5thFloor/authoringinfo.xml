@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-15.5418 -5.9905 -3.0903 14.3826 5.1822 22.0202" area="77" targetId="bebdfb6e70c8465b89c9e19f60d68104" name="Lounge_Lift_5thFloor" pathAuthoring="bebdfb6e70c8465b89c9e19f60d68104_authoring.glb" pathOcclusion="bebdfb6e70c8465b89c9e19f60d68104_occlusion.3dt" pathNavMesh="bebdfb6e70c8465b89c9e19f60d68104_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
